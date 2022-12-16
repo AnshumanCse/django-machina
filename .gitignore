@@ -23,3 +23,4 @@ tests/settings_local.py
 
 # Don't commit env-specific settings and files
 example_project/project/settings/env.py
+local test manage.py
